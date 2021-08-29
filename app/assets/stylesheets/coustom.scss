@@ -1,0 +1,50 @@
+main {
+	padding-left: 40px;
+}
+
+p {
+	font-size: 0.9em;
+}
+
+.welcome {
+	width: 100%;
+}
+
+.container {
+	display: flex;
+}
+
+.news {
+	width: 70%;
+}
+
+.side {
+	width: 30%;
+}
+
+/* header */
+header {
+	width: 100%;
+	padding: 10px 4% 10px;
+	background-color: #111111;
+}
+
+.he a {
+	text-decoration: none;
+	color: white;
+}
+
+
+
+/* footer */
+
+footer {
+	width: 100%;
+	margin-top: 45px;
+	padding-bottom: 5px;
+}
+
+#icon {
+	text-align: center;
+	left: 50%;
+}
